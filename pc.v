@@ -13,7 +13,7 @@ module pc(in, out, rst, clk);
 	output reg [6:0] out;
 	
 	always @(posedge clk or posedge rst) begin
-		if (rst) out <= 8'h0;
+		if (rst) out <= 7'h0;
 		else out <= in; 
 	end
 
