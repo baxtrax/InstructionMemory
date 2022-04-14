@@ -1,4 +1,4 @@
-# InstructionMemory
+# Instruction Memory
 Includes a Instruction Decoder, Instruction ROM, and a Program Counter (PC). Used in conjunction with future projects to create a fully function CPU.
 
 ## Details
